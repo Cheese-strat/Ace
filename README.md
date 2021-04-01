@@ -12,9 +12,6 @@
 ## Help
 
 Should probably read this more carefully / punch whoever sent you here
-```
-npm start
-```
 
 ## Authors
 
