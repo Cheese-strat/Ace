@@ -11,9 +11,9 @@
 
 ## Help
 
-Any advise for common problems or issues.
+Should probably read this more carefully / punch whoever sent you here
 ```
-command to run if program contains helper info
+npm start
 ```
 
 ## Authors
